@@ -1,1 +1,22 @@
+Machine Learning Course by Andrew Ng:-If you are some one who likes to take learning in small small steps and need more hand holding, you should start from Machine learning course from Andrew Ng: It is a good course for beginners and easy to understand. Professor Ng is amazing in making difficult concepts come to you so smoothly. The course covers all the basic algorithms and also introduces a few advanced topics like neural networks, Recommendation system and application of machine learning in large databases using Map Reduce. He chooses to use Octave / MATLAB instead of the more popular R or Python for teaching machine learning. 
+https://www.coursera.org/learn/machine-learning
+
+
+Learning From Data :- If you are more independent, like challenges and can battle out tough assignments, you should take Learning form Data course by Prof. Yaser Abu-Mostafa: This course gives an amazing treatment of the concepts behind machine learning but beware this course is quite heavy on math and the theory behind ML (stuff like the VC dimension). It also requires more programming knowledge and is thus more advanced in that sense. This course is loaded with home works (which is not necessarily a bad thing ).
+https://work.caltech.edu/lectures.html
+
+
+Machine Learning for undergraduates(Nando De Freitas): Treat them as a complementary to Ng’s course. Nando also gives all the prerequisites required like probability, maximum and log likelihood to get hold of some of the advanced concepts. You will get a solid background in Machine Learning after you watch all of the videos. He has given importance to mathematics something which Ng has skipped. He also uses vectorization throughout the course. By the way, skipping mathematical details completely can be very dangerous.
+https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf
+
+
+Machine Learning - Tom Mitchell, Carnegie Mellon University
+Tom Mitchell’s course is the favourite amongst every Machine Learning researcher. There are multiple offerings of this course. You can do any one of them. The material and assignments are succinct. The concepts are lucidly explained and to the point. The prerequisites such as linear algebra,probability theory has been covered in the initial lectures.
+http://www.cs.cmu.edu/~tom/10701_sp11/
+
+
+The Analytics Edge:One of the best course to learn data science and analytics using R. The course provides in-depth lectures on multiple business cases, along with extensive exercises. Keep in mind, it is a very demanding course in terms of time commitment, but it is worth. The examples include Moneyball, eHarmony, the Framingham Heart Study, Twitter, IBM Watson, and Netflix. Through these examples and many more, we will teach you the following analytic methods: linear regression, logistic regression, trees, text analytics, clustering, visualization, and optimization.
+
+
+
 
